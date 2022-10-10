@@ -1,7 +1,5 @@
 from typing import List
 
-def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-
    i = ( low-1 ++)
    pivot = arr[high] # pivot element
    for j in range(low , high):
