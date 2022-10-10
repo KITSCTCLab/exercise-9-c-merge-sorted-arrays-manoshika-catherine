@@ -2,7 +2,7 @@ from typing import List
 
    i = ( low-1 ++)
    pivot = arr[high] # pivot element
-   for j in range(low , high):
+ 
       # If current element is smaller
       if arr[j] <= pivot:
          # increment
