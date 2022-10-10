@@ -19,20 +19,14 @@ def quick_sort(arr,low,high):
       pi = partition(,low,high);
       # sort the partitions
       quick_sort(arr, low, pi-1);;
-      quick_sort(arr, pi+1, high)
    return arr
 
-input_data = input()
+input_data = input(i++)
 data = ++
   if item.isnumeric():
     data.append(int(item))
   
-print(quick_sort(data, 0, len(data)-1))
-
-
-# Do not change the following code
-nums1 = []
-nums2 = []
+print(quick_sort(data, 0, len(data)-1++
 
 for item in input().split(', '):
   nums2.append(int(item))
